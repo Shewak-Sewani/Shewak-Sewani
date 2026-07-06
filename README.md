@@ -178,12 +178,49 @@ I focus on building real-world scalable systems using modern technologies like *
 
 ---
 
-## 📜 Certifications
+---
 
-- Cisco Networking Basics
-- Python Programming (Self + Academic)
-- Machine Learning Fundamentals
-- Database Systems (SQL / MySQL)
+## 📜 Certifications & Learning Credentials
+
+### 🧠 Google AI Certifications (Coursera)
+
+- **Google AI Essentials Specialization (2026)**
+  - 5-course specialization by Google
+  - AI tools, productivity, responsible AI usage
+  - Prompt engineering + workflow optimization
+  - 🔗 https://coursera.org/verify/specialization/LKIGYCHQU6T7
+
+- **Google Prompting Essentials (2026)**
+  - Advanced prompt engineering techniques
+  - Data analysis, summarization & AI workflows
+  - Creative + professional prompt design
+  - 🔗 https://coursera.org/verify/specialization/6NK2K0W5PXGW
+
+---
+
+### 💡 AI Fundamentals
+
+- **HP LIFE — AI for Beginners (2025)**
+  - Artificial Intelligence fundamentals
+  - Business applications of AI
+  - Ethical AI understanding
+  - Certificate Serial: 7e98d7a0-e77e-47e5-b649-d61dbedfe182
+
+---
+
+### 🏢 Industry Job Simulations (Forage)
+
+- **Solutions Architecture Job Simulation — Forage (July 2025)**
+  - Scalable system design fundamentals
+  - Hosting architecture design
+  - Real-world cloud thinking exposure
+  - Verification: wFHgLwRYZNADbKSHq
+
+- **GenAI Powered Data Analytics Simulation — Forage (July 2025)**
+  - Exploratory Data Analysis (EDA)
+  - AI-driven risk & delinquency prediction
+  - Business storytelling with data
+  - Verification: nniMkjE6kxNPzPxJu
 
 ---
 
