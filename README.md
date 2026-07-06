@@ -164,3 +164,61 @@ I focus on building real-world scalable systems using modern technologies like *
 - Gained exposure to secure system operations  
 
 **Skills:** IT Operations, System Monitoring, Enterprise Support, Incident Management
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+|------------|---------|
+| SEEF Scholarship | Fully funded merit-based scholarship (BSCS) |
+| Academic Excellence | Strong foundation in AI/ML & Software Engineering |
+| Final Year Project | ShieldHer — AI Safety System |
+| Internship Experience | MCB Bank IT Wing Exposure |
+
+---
+
+## 📜 Certifications
+
+- Cisco Networking Basics
+- Python Programming (Self + Academic)
+- Machine Learning Fundamentals
+- Database Systems (SQL / MySQL)
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shewak-Sewani&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shewak-Sewani&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shewak-Sewani&layout=compact&theme=tokyonight" />
+
+</p>
