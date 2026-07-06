@@ -72,3 +72,95 @@ I focus on building real-world scalable systems using modern technologies like *
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| Computer Vision | Advanced | OpenCV, Image Processing, OCR Systems |
+| Deep Learning | Intermediate | CNN, CRNN, Neural Networks |
+| Speech Recognition | Intermediate | Audio-based distress detection (ShieldHer) |
+| Recommendation Systems | Intermediate | Content-based ML systems |
+| Model Deployment | Intermediate | Flask + Web Integration |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🛡️ ShieldHer — Women Safety AI System</b></summary>
+
+**Description:** AI-powered women safety application with real-time distress detection and SOS alerts.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|------|------|------------|----------|--------|------------|
+| Python, TensorFlow, Figma, ML Model | Final Year Project | Real-time detection | On-device processing | Emergency alert system | Private/Public |
+
+**Highlights:**
+- Built custom audio classification model for scream detection
+- Real-time SOS alert system
+- Works offline without internet dependency
+- Designed full UI/UX in Figma
+
+</details>
+
+---
+
+<details>
+<summary><b>✍️ Handwritten Text Recognition System</b></summary>
+
+**Description:** CRNN-based system for converting handwritten text into digital format.
+
+| Stack | Accuracy | Pipeline | Deployment | Impact | Repository |
+|------|----------|----------|------------|--------|------------|
+| Python, TensorFlow, OpenCV, Flask | ~96% | Preprocessing + CRNN | Web App | Document digitization | Public |
+
+**Highlights:**
+- CNN + BiLSTM architecture
+- Noise reduction + thresholding pipeline
+- Real-time web interface
+- End-to-end ML deployment
+
+</details>
+
+---
+
+<details>
+<summary><b>🏥 Healr — Healthcare Platform</b></summary>
+
+**Description:** Full-stack healthcare system for patient-doctor interaction.
+
+| Stack | Type | Features | Backend | Impact | Repository |
+|------|------|----------|----------|--------|------------|
+| Figma, Full Stack, REST APIs | Web App | Booking system, patient flow | Flask | Healthcare automation | Public |
+
+</details>
+
+---
+
+<details>
+<summary><b>💬 Secure Messaging App</b></summary>
+
+**Description:** Secure Java-based messaging system with encryption.
+
+| Stack | Security | Features | Protocol | Impact | Repository |
+|------|----------|----------|----------|--------|------------|
+| Java, Socket Programming | AES-256 | Encrypted chat system | Client-Server | Secure communication | Public |
+
+</details>
+
+---
+
+## 💼 Experience
+
+### 🏦 IT Wing Intern — MCB Bank Limited
+**June 2025 – July 2025**
+
+- Worked across IT infrastructure teams in enterprise environment  
+- Learned system monitoring, ticketing, and incident handling  
+- Understood real-world banking IT governance systems  
+- Gained exposure to secure system operations  
+
+**Skills:** IT Operations, System Monitoring, Enterprise Support, Incident Management
