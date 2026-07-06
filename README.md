@@ -222,3 +222,52 @@ I focus on building real-world scalable systems using modern technologies like *
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shewak-Sewani&layout=compact&theme=tokyonight" />
 
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shewak-Sewani&theme=tokyonight&row=2&column=4" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shewak-Sewani&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - Deep Learning (CNN, RNN, CRNN)
+  - System Design
+
+Building:
+  - AI Safety Systems (ShieldHer)
+  - Full Stack Web Applications
+  - Secure Communication Systems
+
+Exploring:
+  - Cloud Deployment
+  - AI for Real-World Applications
+  - Scalable Backend Systems
+
+Open To:
+  - Software Engineering Roles
+  - AI/ML Engineering Roles
+  - Full Stack Development Internships
